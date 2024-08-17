@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+👩🏻‍💻 I am a backend developer.
+👩🏻‍🎓 I am currently studying Software Engineering at the Ho Chi Minh City University of Foreign Languages and Information Technology, Viet Nam.
 <!--
 **GiapKun/GiapKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
